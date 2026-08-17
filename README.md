@@ -62,7 +62,7 @@ python main.py
 ```text
 Smart-Emergency-Evacuation-System/
 │
-├── main.py
+├── evacuation_ai.py
 └── README.md
 ```
 
